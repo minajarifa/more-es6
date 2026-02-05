@@ -13,3 +13,5 @@ const dynamicTaxt = ` i need ${num2}`;
 const interHTML = `<div><h1>Hello: ${friend?.length}</h1><p></p></div>`;
 const tenTimes = (x) => x * 10;
 const newFriend = [...friend,"arifa","yeasmin"]
+
+const{markes}=student
